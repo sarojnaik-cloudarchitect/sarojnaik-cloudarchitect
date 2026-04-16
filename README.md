@@ -1,7 +1,6 @@
 # Saroj Naik — Principal Cloud Architect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nsaroj-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/nsaroj)
-[![GitHub](https://img.shields.io/badge/GitHub-sarojnaik--cloudarchitect-181717?style=flat&logo=github)](https://github.com/sarojnaik-cloudarchitect)
 
 ---
 
