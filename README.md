@@ -40,7 +40,6 @@ Languages           Python · Bash · Go (learning)
 
 ## Get in touch
 
-- Email: sarojnaik.official@gmail.com
 - LinkedIn: [linkedin.com/in/nsaroj](https://linkedin.com/in/nsaroj)
 
 ---
