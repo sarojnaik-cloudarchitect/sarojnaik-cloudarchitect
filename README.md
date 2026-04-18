@@ -45,7 +45,7 @@ on AWS and Kubernetes.
 | [Enterprise DevSecOps Platform](https://github.com/sarojnaik-cloudarchitect/enterprise-devsecops-platform) | EKS · Terraform · ArgoCD · Kyverno · OTel · Bedrock AI | ✅ Complete |
 | [DevSecOps Delivery Guide (PDF)](https://github.com/sarojnaik-cloudarchitect/enterprise-devsecops-platform/tree/main/docs/delivery-guide) | Executive guidebook for CTOs and SaaS leaders | ✅ Complete |
 | [Multi-Cloud Observability Platform](https://github.com/sarojnaik-cloudarchitect/Observability) | OpenTelemetry · New Relic · EKS · GKE · AKS | ✅ Complete |
-| [Observability Platform Guidebook (PDF)](https://github.com/sarojnaik-cloudarchitect/Observability/blob/main/MultiCloud_Observability_Guidebook.pdf) | Multi-cloud observability implementation guide | ✅ Complete |
+| [Observability Platform Guidebook (PDF)](https://github.com/sarojnaik-cloudarchitect/Observability/tree/main/docs/guidebook) | Multi-cloud observability implementation guide | ✅ Complete |
 | [Zero-Trust Platform](https://github.com/sarojnaik-cloudarchitect/zero-trust-platform) | Vault · SPIFFE · Istio · Cilium · SOPS | 🔨 In Progress |
 | AI Platform Engineering | Bedrock · Lambda · Vector DB · LangChain | 🔨 In Progress |
 
