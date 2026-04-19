@@ -6,9 +6,9 @@
 
 ## About
 
-Principal Cloud Architect with 20+ years in enterprise IT and cloud infrastructure.
-Specialising in DevSecOps, zero-trust security, and AI-powered platform engineering
-on AWS and Kubernetes.
+Principal Cloud Architect with 20+ years in enterprise IT and cloud infrastructure. 
+Designs and delivers zero-trust security platforms, DevSecOps pipelines, and 
+AI-powered platform engineering on AWS and Kubernetes.
 
 ---
 
@@ -36,9 +36,10 @@ on AWS and Kubernetes.
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=aqua&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-F46800?style=flat&logo=grafana&logoColor=white)
 ![Cilium](https://img.shields.io/badge/Cilium-F8C517?style=flat&logo=cilium&logoColor=black)
+![SPIRE](https://img.shields.io/badge/SPIRE-333333?style=flat&logo=spiffe&logoColor=white)
 ---
 
-## Portfolio Projects
+## Projects
 
 | Project | Stack / Focus | Status |
 |---|---|---|
@@ -46,14 +47,14 @@ on AWS and Kubernetes.
 | [DevSecOps Delivery Guide (PDF)](https://github.com/sarojnaik-cloudarchitect/enterprise-devsecops-platform/tree/main/docs/delivery-guide) | Executive guidebook for CTOs and SaaS leaders | ✅ Complete |
 | [Multi-Cloud Observability Platform](https://github.com/sarojnaik-cloudarchitect/Observability) | OpenTelemetry · New Relic · EKS · GKE · AKS | ✅ Complete |
 | [Observability Platform Guidebook (PDF)](https://github.com/sarojnaik-cloudarchitect/Observability/tree/main/docs/guidebook) | Multi-cloud observability implementation guide | ✅ Complete |
-| [Zero-Trust Platform](https://github.com/sarojnaik-cloudarchitect/zero-trust-platform) | Vault · SPIFFE · Istio · Cilium · SOPS | 🔨 In Progress |
+| [Zero-Trust Platform](https://github.com/sarojnaik-cloudarchitect/zero-trust-platform) | Vault · SPIFFE · Istio · Cilium · SOPS | ✅ Complete |
 | AI Platform Engineering | Bedrock · Lambda · Vector DB · LangChain | 🔨 In Progress |
 
 ---
 
 ## Current Focus
 
-- 🔐 Building zero-trust security platform with Vault, SPIFFE/SPIRE, and Istio
+- 🤖 Building an AI Platform on AWS — Bedrock, Lambda, Vector DB, and LangChain 
 - 📊 Designing multi-cloud observability with OpenTelemetry and Amazon Bedrock AI
 - 📝 Writing technical guides for platform engineers and SREs
 ---
