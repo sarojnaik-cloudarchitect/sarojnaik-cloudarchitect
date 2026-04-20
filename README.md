@@ -59,11 +59,6 @@ AI-powered platform engineering on AWS and Kubernetes.
 - 📝 Writing technical guides for platform engineers and SREs
 ---
 
-## GitHub Stats
-
-![Saroj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarojnaik-cloudarchitect&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
----
 
 ## Get in touch
 
